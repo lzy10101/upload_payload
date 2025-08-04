@@ -2,8 +2,11 @@
 
 1、
 test.html  ----html型XSS
+
 test.xml   ----xml型XSS
+
 test.svg   ----svg型XSS
+
 test.pdf   ----pdf型XSS
 
 2、
