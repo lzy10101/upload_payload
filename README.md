@@ -1,6 +1,7 @@
 文件上传漏洞验证文件:
 
 1、
+
 test.html  ----html型XSS
 
 test.xml   ----xml型XSS
